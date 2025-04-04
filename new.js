@@ -17,7 +17,7 @@ const section = document.querySelector(".section");
 //https://https://prod.spline.design/xaVhiXJs75cw9ObX/scene.splinecode    my avatar
 //https://prod.spline.design/6LWfYpzEU2GFJ5ie/scene.splinecode     headphone
 app
-  .load("https://prod.spline.design/xaVhiXJs75cw9ObX/scene.splinecode")
+  .load("https://prod.spline.design/6LWfYpzEU2GFJ5ie/scene.splinecode")
   .then(() => {
     console.log("Scene Loaded");
 
